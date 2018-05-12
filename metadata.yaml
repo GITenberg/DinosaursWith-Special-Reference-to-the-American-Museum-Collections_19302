@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8582
     wikipedia: http://en.wikipedia.org/wiki/William_Diller_Matthew
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19302#DinosaursWith-Special-Reference-to-the-American-Museum-Collections
 gutenberg_issued: '2006-09-16'
 gutenberg_type: Text
 identifiers:
